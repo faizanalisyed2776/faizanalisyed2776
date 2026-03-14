@@ -2,10 +2,6 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/dipanshu-gupta-849b9b2ba" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:faizanalisyed2776@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
@@ -24,12 +20,7 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Student & Aspiring Software Developer**
-- 💻 I’m currently working on **Python Projects**
-- 🤖 Learning **Machine Learning & AI**
-- 📚 Practicing **Data Structures & Algorithms**
-- 💬 Ask me about **Python, GitHub, Projects**
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
 - 📫 Reach me: **faizanalisyed2776@gmail.com**
 - 💪 Building projects to become job-ready
 
@@ -43,24 +34,14 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 ### 👨‍💻 Programming languages
 
 <p>
-     <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
 
 </p>
 
-### 🧰 Frameworks & Libraries
-
-<p>
-     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0.svg?logo=python&logoColor=white">
-</p>
 
 ### 🗄️ Databases
 
@@ -71,21 +52,10 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 ### 💻 Tools
 
 <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
    <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white">
 </p>
 
 ---
-
-## 📊 Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faizanalisyed2776&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faizanalisyed2776&layout=compact&theme=tokyonight" />
-</p>
-
 <br>
 
 <details>
@@ -104,8 +74,3 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 
 </details>
 
----
-
-## ✨ Fun Fact
-
-⚡ I love building projects and learning new technologies 🚀
