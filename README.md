@@ -13,7 +13,7 @@ I enjoy building practical projects, exploring new technologies, and improving m
 
 Currently focused on strengthening my programming fundamentals and developing projects that solve real-world problems.
 
-<img align="right" src="[https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif?raw=true](https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif)" width="330"/>
+<img align="right" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif" width="330"/>
 
 ### Quick Information
 
