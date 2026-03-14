@@ -1,69 +1,63 @@
-# Welcome to [Faizan Ali Syed](https://github.com/faizanalisyed2776) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi, I'm Faizan Ali Syed
 
 <p align="left">
-
-<a href="mailto:faizanalisyed2776@gmail.com" target="_blank">
+<a href="mailto:faizanalisyed2776@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
+</a>
 </p>
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=faizanalisyed2776.faizanalisyed2776)
+## About Me
 
-I am a passionate **Python Developer and AI Enthusiast**.  
-I love building real-world projects, solving problems, and learning new technologies.
+I am a developer interested in Python, AI, and software development.  
+I enjoy building practical projects, exploring new technologies, and improving my problem-solving skills through hands-on work.
 
-As a developer, I focus on creating impactful solutions and continuously improving my skills.
+Currently focused on strengthening my programming fundamentals and developing projects that solve real-world problems.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="350" />
+<img align="right" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="330"/>
 
-### Talking about Personal Stuff:
+### Quick Information
 
-- 👨‍🎓 I'm a **Student & Aspiring Software Developer**
-- 🌱 I'm currently learning:
-- 📫 Reach me: **faizanalisyed2776@gmail.com**
-- 💪 Building projects to become job-ready
+- Student and aspiring software developer  
+- Interested in Python, AI, and backend development  
+- Currently improving programming and problem-solving skills  
+- Contact: **faizanalisyed2776@gmail.com**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---
 
-## 🛠️ My Favourite tools
+## Tech Stack
 
-### 👨‍💻 Programming languages
+### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
 </p>
 
-
-### 🗄️ Databases
+### Database
 
 <p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
 </p>
 
-### 💻 Tools
+### Tools
 
 <p>
-   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
-<br>
 
 <details>
-<summary>😺 My Github stats, 😺 Current Streak and 😺 Most Used Languages</summary>
+<summary>GitHub Statistics</summary>
 
 <br>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faizanalisyed2776&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faizanalisyed2776&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faizanalisyed2776&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanalisyed2776&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -71,4 +65,3 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 </p>
 
 </details>
-
