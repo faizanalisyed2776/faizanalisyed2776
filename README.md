@@ -25,8 +25,6 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 - 💪 Building projects to become job-ready
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/faizanalisyed2776" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-
 ---
 
 ## 🛠️ My Favourite tools
