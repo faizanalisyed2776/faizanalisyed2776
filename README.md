@@ -15,6 +15,8 @@ Currently focused on strengthening my programming fundamentals and developing pr
 
 <img align="right" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAd/code-coding.gif" width="330"/>
 
+
+
 ### Quick Information
 
 - Student and aspiring software developer  
