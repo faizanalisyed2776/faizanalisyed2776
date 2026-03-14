@@ -31,8 +31,7 @@ Currently focused on strengthening my programming fundamentals and developing pr
 ### Programming Languages
 
 <p>
-  <img src=""/>
-  <img src="<i class="fa-solid fa-c"></i>"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
