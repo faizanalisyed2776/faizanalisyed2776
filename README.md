@@ -1,7 +1,7 @@
 # Hi, I'm Faizan Ali Syed
 
 <p align="left">
-<a href="mailto:faizanalisyed2776@gmail.com">
+<a href="faizanalisyed2776@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>
 </p>
